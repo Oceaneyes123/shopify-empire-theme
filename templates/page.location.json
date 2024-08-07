@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "dynamic_rich_text_KWGNqW": {
+      "type": "dynamic-rich-text",
+      "custom_css": [
+        "h2 {font-size: 2em;}",
+        "h4 {font-size: 1.5em;}",
+        "p {font-size: 1.2em;}"
+      ],
+      "settings": {
+        "width": "regular",
+        "title": "Check our locations",
+        "text": "<h4><a href=\"https:\/\/www.stihl.ca\/en\/dealers\/backtrack-railway-services-ltd.-4c0cd43e-daa0-ea11-a813-000d3a6540e8\" title=\"https:\/\/www.stihl.ca\/en\/dealers\/backtrack-railway-services-ltd.-4c0cd43e-daa0-ea11-a813-000d3a6540e8\">St. Albert &gt;<\/a><\/h4><p>55 Corriveau Ave<br\/>St.Albert AB T8N 5A3<br\/>t:780-418-4252<br\/>t:888-744-7245<\/p>",
+        "heading_size": "medium",
+        "text_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "dynamic_rich_text_KWGNqW"
+  ]
+}

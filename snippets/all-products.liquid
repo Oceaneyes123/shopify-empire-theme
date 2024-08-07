@@ -1,0 +1,15 @@
+<script>
+    window.products = [];
+</script>
+
+<div>
+    {% for product in collections['all'].products %}
+        <script>
+            window.products.push({
+                title: "{{ product.title }}",
+                tags: "{{ product.tags }}",
+                
+            });
+        </script>
+    {% endfor %}
+</div>
